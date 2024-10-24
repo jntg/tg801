@@ -1,5 +1,26 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
+#EXTINF:-1 东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+
+#EXTINF:-1 东森财经
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+
+#EXTINF:-1 TVBS新闻
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+#EXTINF:-1 TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
+
+#EXTINF:-1 TVBS欢乐
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
+
+#EXTINF:-1 中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+
+#EXTINF:-1 民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
+
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
