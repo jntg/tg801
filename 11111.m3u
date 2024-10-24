@@ -1,21 +1,21 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
-#EXTINF:-1,tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="卫视",凤凰卫视中文
+#EXTINF:-1,tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="港台",凤凰卫视中文
 http://35455.koyeb.app/tptv/HD-10000k-1080P-fhchinese5s.m3u8
 
-#EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视",凤凰卫视资讯
+#EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="港台",凤凰卫视资讯
 http://35455.koyeb.app/tptv/HD-10000k-1080P-fhzixun5s.m3u8
 
-#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="香港",凤凰卫视香港
+#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="港台",凤凰卫视香港
 http://35455.koyeb.app/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 
-#EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-logo="TVBS新闻.png",TVBS新闻
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-logo="TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS欢乐" tvg-logo="TVBS欢乐.png",TVBS欢乐
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-logo="TVBS欢乐.png" group-title="港台",TVBS欢乐
 http://37.27.111.214:8080/live/24/hls.m3u8
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
