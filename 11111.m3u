@@ -1,13 +1,13 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
 #EXTINF:-1,tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文.png" group-title="港台",凤凰卫视中文
-http://35455.koyeb.app/tptv/HD-10000k-1080P-fhchinese5s.m3u8
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="港台",凤凰卫视资讯
-http://35455.koyeb.app/tptv/HD-10000k-1080P-fhzixun5s.m3u8
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="港台",凤凰卫视香港
-http://35455.koyeb.app/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
