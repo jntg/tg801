@@ -1,28 +1,22 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
-#EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.v1.mk/logo/myTV SUPER 18台.png" group-title="港台",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://epg.v1.mk/logo/爆谷台.png" group-title="港台",爆谷台
+http://205.185.123.236:8899/1/baogutai/stream.m3u8
 
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.v1.mk/logo/PopC.png" group-title="港台",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
+http://205.185.123.236:8899/1/now/stream.m3u8
 
-#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/TVB Plus.png" group-title="港台",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港台",星河台
+http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
 
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.v1.mk/logo/TVBS.png" group-title="港台",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台",千禧经典台
+http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 
 #EXTINF:-1,tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://epg.v1.mk/logo/TVBS-新聞台.png" group-title="港台",TVBS-新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.v1.mk/logo/三立綜合台.png" group-title="港台",三立綜合台
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="三立財經新聞" tvg-name="三立財經新聞" tvg-logo="https://epg.v1.mk/logo/三立財經新聞.png" group-title="港台",三立財經新聞
-http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.v1.mk/logo/中天亞洲台.png" group-title="港台",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://epg.v1.mk/logo/TVB生活台.png" group-title="港台",TVB生活台
+http://205.185.123.236:8899/tvb/Finance/stream.m3u8
 
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.v1.mk/logo/中天新聞台.png" group-title="港台",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -33,29 +27,14 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.v1.mk/logo/寰宇新聞台.png" group-title="港台",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="无线新闻台(北美)" tvg-name="无线新闻台(北美)" tvg-logo="https://epg.v1.mk/logo/无线新闻台(北美).png" group-title="港台",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/明珠剧集台(北美).png" group-title="港台",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港台",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.v1.mk/logo/無線新聞台.png" group-title="港台",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠剧集台(北美).png" group-title="港台",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="翡翠台(泰国)" tvg-name="翡翠台(泰国)" tvg-logo="https://epg.v1.mk/logo/翡翠台(泰国).png" group-title="港台",翡翠台(泰国)翡翠台(泰国)
-http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="翡翠综合台(北美)" tvg-name="翡翠综合台(北美)" tvg-logo="https://epg.v1.mk/logo/翡翠综合台(北美).png" group-title="港台",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 
 #EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.v1.mk/logo/華視.png" group-title="港台",華視華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
