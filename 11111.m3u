@@ -3,17 +3,32 @@
 #EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://epg.v1.mk/logo/爆谷台.png" group-title="港台",爆谷台
 http://205.185.123.236:8899/1/baogutai/stream.m3u8
 
+#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://epg.v1.mk/logo/爆谷台.png" group-title="港台",爆谷台
+https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
+
+#EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
+https://www.mytvsuper.xyz/1/now/stream.m3u8
+
 #EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
 http://205.185.123.236:8899/1/now/stream.m3u8
 
 #EXTINF:-1,tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港台",星河台
+https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+
+#EXTINF:-1,tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港台",星河台
 http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
+
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台",千禧经典台
+https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
 
 #EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台",千禧经典台
 http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 
 #EXTINF:-1,tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://epg.v1.mk/logo/TVBS-新聞台.png" group-title="港台",TVBS-新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:-1,tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://epg.v1.mk/logo/TVB生活台.png" group-title="港台",TVB生活台
+https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 
 #EXTINF:-1,tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://epg.v1.mk/logo/TVB生活台.png" group-title="港台",TVB生活台
 http://205.185.123.236:8899/tvb/Finance/stream.m3u8
