@@ -57,6 +57,15 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 
+#EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
+http://211.72.65.236:8574/.m3u8#http://211.72.65.236:8550/.m3u8
+
+#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
+http://211.72.65.236:8543/.m3u8
+
+#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
+http://211.72.65.236:8539/.m3u8
+
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-logo="TVBS新闻.png" group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
 
