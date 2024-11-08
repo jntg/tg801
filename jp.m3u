@@ -55,7 +55,7 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 http://37.27.111.214:8080/live/9/hls.m3u8
 #EXTINF:-1,靖天日本台
 http://37.27.111.214:8080/live/11/hls.m3u8
-#EXTINF:-1靖洋卡通台
+#EXTINF:-1,靖洋卡通台
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1,博斯高球
 http://37.27.111.214:8080/live/13/hls.m3u8
@@ -89,5 +89,3 @@ http://vthanh.utako.moe/10/index.m3u8
 http://vthanh.utako.moe/11/index.m3u8
 #EXTINF:-1 ,12
 http://vthanh.utako.moe/12/index.m3u8
-#EXTINF:-1 ,13
-http://vthanh.utako.moe/13/index.m3u8
