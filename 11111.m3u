@@ -12,17 +12,8 @@ http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1,tvg-id="DW臺" tvg-name="DW臺" tvg-logo="https://epg.v1.mk/logo/DW臺.png" group-title="港台",DW臺
 http://125.227.210.55:42534/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="BBC臺" tvg-name="BBC臺" tvg-logo="https://epg.v1.mk/logo/BBC臺.png" group-title="港台",BBC臺
-http://125.227.210.55:44350/VideoInput/play.ts
-
-#EXTINF:-1,tvg-id="NHK BSP" tvg-name="NHK BSP" tvg-logo="https://epg.v1.mk/logo/NHK BSP.png" group-title="港台",NHK BSP
-http://125.227.210.55:60116/VideoInput/play.ts
-
 #EXTINF:-1,tvg-id="KOREA臺" tvg-name="KOREA臺" tvg-logo="https://epg.v1.mk/logo/KOREA臺.png" group-title="港台",KOREA臺
 http://125.227.210.55:48553/VideoInput/play.ts
-
-#EXTINF:-1,tvg-id="JTV" tvg-name="JTV" tvg-logo="https://epg.v1.mk/logo/JTV.png" group-title="港台",JTV
-http://125.227.210.55:8169/VideoInput/play.ts
 
 #EXTINF:-1,tvg-id="鳳凰HD臺" tvg-name="鳳凰HD臺" tvg-logo="https://epg.v1.mk/logo/鳳凰HD臺.png" group-title="港台",鳳凰HD臺
 http://125.227.210.55:39004/VideoInput/play.ts
@@ -44,9 +35,6 @@ http://211.72.65.236:8550/.m3u8
 
 #EXTINF:-1,tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://epg.v1.mk/logo/Bloomberg.png" group-title="港台",Bloomberg
 http://125.227.210.55:8161/VideoInput/play.ts
-
-#EXTINF:-1,tvg-id="PBS臺" tvg-name="PBS臺" tvg-logo="https://epg.v1.mk/logo/PBS臺.png" group-title="港台",PBS臺
-http://125.227.210.55:36950/VideoInput/play.ts
 
 #EXTINF:-1,tvg-id="NHK JAPAN臺" tvg-name="NHK JAPAN臺" tvg-logo="https://epg.v1.mk/logo/NHK JAPAN臺.png" group-title="港台",NHK JAPAN臺
 http://125.227.210.55:35802/VideoInput/play.ts
@@ -72,13 +60,13 @@ http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1,tvg-id="TVBS-TVBS HD" tvg-name="TVBS HD" tvg-logo="https://epg.v1.mk/logo/TVBS HD.png" group-title="港台",TVBS HD
 http://125.227.210.55:8188/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.v1.mk/logo/TVBS新聞台.png" group-title="港台",TVBS新聞台
+#EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞" tvg-logo="https://epg.v1.mk/logo/TVBS新聞.png" group-title="港台",TVBS新聞
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
-#EXTINF:-1,tvg-id="TVBS新聞台1" tvg-name="TVBS新聞台1" tvg-logo="https://epg.v1.mk/logo/TVBS新聞台1.png" group-title="港台",TVBS新聞台1
+#EXTINF:-1,tvg-id="TVBS新聞1" tvg-name="TVBS新聞1" tvg-logo="https://epg.v1.mk/logo/TVBS新聞1.png" group-title="港台",TVBS新聞1
 http://125.227.210.55:8186/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBS新闻3" tvg-logo="TVBS新闻3.png" group-title="港台",TVBS新闻3
+#EXTINF:-1 tvg-id="TVBS新闻2" tvg-logo="TVBS新闻2.png" group-title="港台",TVBS新闻2
 http://61.221.215.25:8800/hls/9/index.m3u8
 
 #EXTINF:-1,tvg-id="TVBS歡樂臺" tvg-name="TVBS歡樂臺" tvg-logo="https://epg.v1.mk/logo/TVBS歡樂臺.png" group-title="港台",TVBS歡樂臺
