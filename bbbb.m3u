@@ -7,53 +7,21 @@ Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-JTV,http://125.227.210.55:8169/VideoInput/play.ts
 TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS歡樂臺,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
 YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
 NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
-PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
 鳳凰HD臺,http://125.227.210.55:39004/VideoInput/play.ts
 DW臺,http://125.227.210.55:42534/VideoInput/play.ts
-BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
-NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-大街)民視,rtmp://f13h.mine.nu/sat/tv051
-(大街)台視,rtmp://f13h.mine.nu/sat/tv071
-(大街)中視,rtmp://f13h.mine.nu/sat/tv091
-(大街)華視,rtmp://f13h.mine.nu/sat/tv111
-TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
-東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
-東森超視,rtmp://f13h.mine.nu/sat/tv521
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
-ELTA體育2,rtmp://f13h.mine.nu/sat/md011
-ELEVEN2,rtmp://f13h.mine.nu/sat/md021
-博斯網球,rtmp://f13h.mine.nu/sat/md031
-ELTA體育3,rtmp://f13h.mine.nu/sat/md041
-ELTA體育1,rtmp://f13h.mine.nu/sat/md051
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-(大街)中視,rtmp://220.130.201.73/sat/tv091
-(大街)華視,rtmp://220.130.201.73/sat/tv111
-(大街)臺視,rtmp://220.130.201.73/sat/tv071
-(大街)民視,rtmp://220.130.201.73/sat/tv051
-(大街)緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-(大街)緯來體育,rtmp://220.130.201.73/sat/tv721
-(大街)緯來育樂,rtmp://220.130.201.73/sat/tv701
-(大街)緯來日本,rtmp://220.130.201.73/sat/tv771
-(大街)東森超視,rtmp://220.130.201.73/sat/tv331
 (大街)八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 (大街)三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 (大街)中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
