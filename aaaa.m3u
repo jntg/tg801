@@ -3,14 +3,6 @@
 https://www.mytvsuper.xyz/1/now/stream.m3u8
 #EXTINF:-1,星影台
 http://205.185.123.236:8899/1/now/stream.m3u8
-#EXTINF:-1,星河台
-https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
-#EXTINF:-1,星河台
-http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
-#EXTINF:-1,千禧经典台
-https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
-#EXTINF:-1,千禧经典台
-http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 #EXTINF:-1,TVBS-新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,TVB生活台
