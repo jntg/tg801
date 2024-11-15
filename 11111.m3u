@@ -1,10 +1,34 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
-#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://epg.v1.mk/logo/爆谷台.png" group-title="港台",爆谷台
-http://205.185.123.236:8899/1/baogutai/stream.m3u8
+#EXTINF:-1,tvg-id="BBC new" tvg-name="BBC new" tvg-logo="https://epg.v1.mk/logo/BBC new.png" group-title="港台",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://epg.v1.mk/logo/爆谷台.png" group-title="港台",爆谷台
-https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
+#EXTINF:-1,tvg-id="CNN new" tvg-name="CNN new" tvg-logo="https://epg.v1.mk/logo/CNN new.png" group-title="港台",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.v1.mk/logo/CN卡通.png" group-title="港台",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="DW臺" tvg-name="DW臺" tvg-logo="https://epg.v1.mk/logo/DW臺.png" group-title="港台",DW臺
+http://125.227.210.55:42534/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="BBC臺" tvg-name="BBC臺" tvg-logo="https://epg.v1.mk/logo/BBC臺.png" group-title="港台",BBC臺
+http://125.227.210.55:44350/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="NHK BSP" tvg-name="NHK BSP" tvg-logo="https://epg.v1.mk/logo/NHK BSP.png" group-title="港台",NHK BSP
+http://125.227.210.55:60116/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="KOREA臺" tvg-name="KOREA臺" tvg-logo="https://epg.v1.mk/logo/KOREA臺.png" group-title="港台",KOREA臺
+http://125.227.210.55:48553/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="JTV" tvg-name="JTV" tvg-logo="https://epg.v1.mk/logo/JTV.png" group-title="港台",JTV
+http://125.227.210.55:8169/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="鳳凰HD臺" tvg-name="鳳凰HD臺" tvg-logo="https://epg.v1.mk/logo/鳳凰HD臺.png" group-title="港台",鳳凰HD臺
+http://125.227.210.55:39004/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.v1.mk/logo/HBO HD.png" group-title="港台",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
 
 #EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
 https://www.mytvsuper.xyz/1/now/stream.m3u8
@@ -12,26 +36,62 @@ https://www.mytvsuper.xyz/1/now/stream.m3u8
 #EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
 http://205.185.123.236:8899/1/now/stream.m3u8
 
-#EXTINF:-1,tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港台",星河台
-https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+#EXTINF:-1,tvg-id="緯來體育臺" tvg-name="緯來體育臺" tvg-logo="https://epg.v1.mk/logo/緯來體育臺.png" group-title="港台",緯來體育臺
+http://125.227.210.55:8155/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="星河台" tvg-name="星河台" tvg-logo="https://epg.v1.mk/logo/星河台.png" group-title="港台",星河台
-http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
+#EXTINF:-1 tvg-id="纬来电影" tvg-logo="纬来电影.png" group-title="港台",纬来电影
+http://211.72.65.236:8550/.m3u8
 
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台",千禧经典台
-https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
+#EXTINF:-1,tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://epg.v1.mk/logo/Bloomberg.png" group-title="港台",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="港台",千禧经典台
-http://205.185.123.236:8899/astro/qianxi/stream.m3u8
+#EXTINF:-1,tvg-id="PBS臺" tvg-name="PBS臺" tvg-logo="https://epg.v1.mk/logo/PBS臺.png" group-title="港台",PBS臺
+http://125.227.210.55:36950/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="TVBS-新聞台" tvg-name="TVBS-新聞台" tvg-logo="https://epg.v1.mk/logo/TVBS-新聞台.png" group-title="港台",TVBS-新聞台
+#EXTINF:-1,tvg-id="NHK JAPAN臺" tvg-name="NHK JAPAN臺" tvg-logo="https://epg.v1.mk/logo/NHK JAPAN臺.png" group-title="港台",NHK JAPAN臺
+http://125.227.210.55:35802/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="TV5臺" tvg-name="TV5臺" tvg-logo="https://epg.v1.mk/logo/TV5臺.png" group-title="港台",TV5臺
+http://125.227.210.55:15533/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="YTN臺" tvg-name="YTN臺" tvg-logo="https://epg.v1.mk/logo/YTN臺.png" group-title="港台",YTN臺
+http://125.227.210.55:17478/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="三立臺灣臺" tvg-name="三立臺灣臺" tvg-logo="https://epg.v1.mk/logo/三立臺灣臺.png" group-title="港台",三立臺灣臺
+http://125.227.210.55:8160/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
+http://211.72.65.236:8543/.m3u8
+
+#EXTINF:-1 tvg-id="三立新闻1" tvg-logo="三立新闻1.png" group-title="港台",三立新闻1
+http://211.72.65.236:8539/.m3u8
+
+#EXTINF:-1,tvg-id="三立新聞2" tvg-name="三立新聞2" tvg-logo="https://epg.v1.mk/logo/三立新聞2.png" group-title="港台",三立新聞2
+http://125.227.210.55:8162/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="TVBS-TVBS HD" tvg-name="TVBS HD" tvg-logo="https://epg.v1.mk/logo/TVBS HD.png" group-title="港台",TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts
+
+#EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.v1.mk/logo/TVBS新聞台.png" group-title="港台",TVBS新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+#EXTINF:-1,tvg-id="TVBS新聞台1" tvg-name="TVBS新聞台1" tvg-logo="https://epg.v1.mk/logo/TVBS新聞台1.png" group-title="港台",TVBS新聞台1
+http://125.227.210.55:8186/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="TVBS新闻3" tvg-logo="TVBS新闻3.png" group-title="港台",TVBS新闻3
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+#EXTINF:-1,tvg-id="TVBS歡樂臺" tvg-name="TVBS歡樂臺" tvg-logo="https://epg.v1.mk/logo/TVBS歡樂臺.png" group-title="港台",TVBS歡樂臺
+http://125.227.210.55:8187/VideoInput/play.ts
 
 #EXTINF:-1,tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://epg.v1.mk/logo/TVB生活台.png" group-title="港台",TVB生活台
 https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 
-#EXTINF:-1,tvg-id="TVB生活台" tvg-name="TVB生活台" tvg-logo="https://epg.v1.mk/logo/TVB生活台.png" group-title="港台",TVB生活台
+#EXTINF:-1,tvg-id="TVB生活台1" tvg-name="TVB生活台1" tvg-logo="https://epg.v1.mk/logo/TVB生活台1.png" group-title="港台",TVB生活台1
 http://205.185.123.236:8899/tvb/Finance/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-logo="TVBS欢乐.png" group-title="港台",TVBS欢乐
+http://37.27.111.214:8080/live/24/hls.m3u8
 
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.v1.mk/logo/中天新聞台.png" group-title="港台",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -81,23 +141,8 @@ http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
 
-#EXTINF:-1 tvg-id="东森新闻" tvg-logo="东森新闻.png" group-title="港台",东森新闻
+#EXTINF:-1 tvg-id="东森新闻1" tvg-logo="东森新闻1.png" group-title="港台",东森新闻1
 http://211.72.65.236:8574/.m3u8
-
-#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
-http://211.72.65.236:8543/.m3u8
-
-#EXTINF:-1 tvg-id="纬来电影" tvg-logo="纬来电影.png" group-title="港台",纬来电影
-http://211.72.65.236:8550/.m3u8
-
-#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
-http://211.72.65.236:8539/.m3u8
-
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-logo="TVBS新闻.png" group-title="港台",TVBS新闻
-http://61.221.215.25:8800/hls/9/index.m3u8
-
-#EXTINF:-1 tvg-id="TVBS欢乐" tvg-logo="TVBS欢乐.png" group-title="港台",TVBS欢乐
-http://37.27.111.214:8080/live/24/hls.m3u8
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
