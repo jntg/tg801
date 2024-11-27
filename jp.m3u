@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
 #EXTINF:-1 tvg-id="凤凰资讯频道" tvg-name="凤凰资讯频道" tvg-logo="https://assets.livednow.com/logo/凤凰资讯频道.png" group-title="綜合", 凤凰资讯频道
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
