@@ -21,18 +21,6 @@ http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:-1,tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.v1.mk/logo/HBO HD.png" group-title="港台",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 
-#EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
-https://www.mytvsuper.xyz/1/now/stream.m3u8
-
-#EXTINF:-1,tvg-id="星影台" tvg-name="星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="港台",星影台
-http://205.185.123.236:8899/1/now/stream.m3u8
-
-#EXTINF:-1,tvg-id="緯來體育臺" tvg-name="緯來體育臺" tvg-logo="https://epg.v1.mk/logo/緯來體育臺.png" group-title="港台",緯來體育臺
-http://125.227.210.55:8155/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="纬来电影" tvg-logo="纬来电影.png" group-title="港台",纬来电影
-http://211.72.65.236:8550/.m3u8
-
 #EXTINF:-1,tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://epg.v1.mk/logo/Bloomberg.png" group-title="港台",Bloomberg
 http://125.227.210.55:8161/VideoInput/play.ts
 
@@ -47,12 +35,6 @@ http://125.227.210.55:17478/VideoInput/play.ts
 
 #EXTINF:-1,tvg-id="三立臺灣臺" tvg-name="三立臺灣臺" tvg-logo="https://epg.v1.mk/logo/三立臺灣臺.png" group-title="港台",三立臺灣臺
 http://125.227.210.55:8160/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="三立新闻" tvg-logo="三立新闻.png" group-title="港台",三立新闻
-http://211.72.65.236:8543/.m3u8
-
-#EXTINF:-1 tvg-id="三立新闻1" tvg-logo="三立新闻1.png" group-title="港台",三立新闻1
-http://211.72.65.236:8539/.m3u8
 
 #EXTINF:-1,tvg-id="三立新聞2" tvg-name="三立新聞2" tvg-logo="https://epg.v1.mk/logo/三立新聞2.png" group-title="港台",三立新聞2
 http://125.227.210.55:8162/VideoInput/play.ts
