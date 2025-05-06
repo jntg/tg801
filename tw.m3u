@@ -1,10 +1,45 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
-
-
-
-
-
+#EXTINF:-1 group-title="tvfix",凤凰中文
+https://live.tvfix.org/live/fwzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+https://live.tvfix.org/live/fwzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+https://live.tvfix.org/live/fwxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVB Plus
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="tvfix",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="tvfix",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="tvfix",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰中文
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+https://live.tvfix.org/live/fhzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+https://live.tvfix.org/live/fhxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",CCTV-1高清
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN纪录高清
+https://live.tvfix.org/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN高清
+https://live.tvfix.org/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",中国电影频道
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="tvfix",东方卫视国际
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",Animax
+https://live.tvfix.org/live/animax/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS新闻台
+https://live.tvfix.org/live/tvbsnews/index.m3u8
+#EXTINF:-1 group-title="tvfix",亚洲新闻台
+https://live.tvfix.org/live/newsasia/index.m3u8
 
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="Judy「自用」",广东体育
 https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
