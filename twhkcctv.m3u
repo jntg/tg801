@@ -1,5 +1,14 @@
 #EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
-
+#EXTINF:-1,民视
+http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+#EXTINF:-1,TVBS歡樂台
+http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
+#EXTINF:-1,GTv八大第1台
+http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+#EXTINF:-1,緯來電影
+http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+#EXTINF:-1,信 吉
+http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="极限体验_@",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="极限体验_@",CCTV-2 财经
