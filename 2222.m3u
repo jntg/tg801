@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://39.135.133.158:80/wh7f454c46tw3455208293_-437216677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -182,27 +183,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港卫视频道",无线翡翠
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="香港卫视频道",凤凰中文
-http://ali.hlspull.yximgs.com/live/e85ae002c9ae52e93c3c7f85e143b5cb.flv
-#EXTINF:-1 group-title="香港卫视频道",凤凰资讯
-http://ali.hlspull.yximgs.com/live/8d92016e9a791ff8f0d9f1a48e75a7c8.flv
-#EXTINF:-1 group-title="香港卫视频道",凤凰资讯高清
-http://39.134.182.168/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-#EXTINF:-1 group-title="香港卫视频道",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="香港卫视频道",鳳凰衛視
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
-#EXTINF:-1 group-title="香港卫视频道",鳳凰衛視
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-#EXTINF:-1 group-title="香港卫视频道",鳳凰衛視
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-#EXTINF:-1 group-title="香港卫视频道",鳳凰資訊
-http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-#EXTINF:-1 group-title="香港卫视频道",鳳凰資訊
-http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
-#EXTINF:-1 group-title="香港卫视频道",凤凰香港
-http://ali.hlspull.yximgs.com/live/820c9a3c59d8784e65008c4b35312ffa.flv
-#EXTINF:-1 group-title="香港卫视频道",鳳凰香港
-http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 group-title="香港卫视频道",无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="香港卫视频道",翡翠台
@@ -213,18 +194,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港卫视频道",香港35台
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港卫视频道",星空卫视
-http://171.108.239.79:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="香港卫视频道",星空卫视
-http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 group-title="香港卫视频道",香港明珠
-http://grandprix2023.asuscomm.com:8892/bysid/2
-#EXTINF:-1 group-title="香港卫视频道",美亞電影
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-#EXTINF:-1 group-title="香港卫视频道",美亞電影
-http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
-#EXTINF:-1 group-title="香港卫视频道",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="湾湾频道",TVBSNEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="湾湾频道",中天新聞[1920x1080]
@@ -239,31 +208,51 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="湾湾频道",海峡两岸
 http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
-#EXTINF:-1 group-title="咪咕央视频道",CCTV-16咪咕
-https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
-#EXTINF:-1 group-title="咪咕央视频道",cct4欧洲咪咕
-http://z.b.bkpcp.top/m.php?id=cctv4o
-#EXTINF:-1 group-title="咪咕央视频道",cct4美洲咪咕
-http://z.b.bkpcp.top/m.php?id=cctv4m
-#EXTINF:-1 group-title="咪咕央视频道",家庭影院咪咕
-http://z.b.bkpcp.top/m.php?id=jtyy
-#EXTINF:-1 group-title="咪咕央视频道",东方影视咪咕
-http://z.b.bkpcp.top/m.php?id=shys
-#EXTINF:-1 group-title="咪咕央视频道",陕西卫视咪咕
-http://z.b.bkpcp.top/m.php?id=sxws
-#EXTINF:-1 group-title="咪咕央视频道",湖北卫视咪咕
-http://z.b.bkpcp.top/m.php?id=hubws
-#EXTINF:-1 group-title="咪咕央视频道",江西卫视咪咕
-http://z.b.bkpcp.top/m.php?id=jxws
-#EXTINF:-1 group-title="咪咕央视频道",江苏卫视咪咕
-http://z.b.bkpcp.top/m.php?id=jsws
-#EXTINF:-1 group-title="咪咕央视频道",广东卫视咪咕
-http://z.b.bkpcp.top/m.php?id=gdws
-#EXTINF:-1 group-title="咪咕央视频道",游戏风云咪咕
-http://z.b.bkpcp.top/m.php?id=yxfy
-#EXTINF:-1 group-title="咪咕央视频道",七彩戏剧咪咕
-http://z.b.bkpcp.top/m.php?id=qcxj
-#EXTINF:-1 group-title="咪咕央视频道",欢笑剧场咪咕
-http://z.b.bkpcp.top/m.php?id=hxjc
-#EXTINF:-1 group-title="咪咕央视频道",魅力足球咪咕
-http://z.b.bkpcp.top/m.php?id=mlzq
+#EXTINF:-1 group-title="国际",无线新闻
+https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1752825547&token=ba58c164a6d3b6e8b7d66002fd41f91a
+#EXTINF:-1 group-title="国际",中天娱乐
+https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&t=1752825547&token=c4828bfc675f2bf6a6a516487481b3e2
+#EXTINF:-1 group-title="国际",中天新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD&t=1752825547&token=111274cd0f0ba724e30e454a972469c3
+#EXTINF:-1 group-title="国际",凤凰香港
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1752825547&token=70e4dd8d35b528780b1db98a10eaf130
+#EXTINF:-1 group-title="国际",凤凰中文
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1752825547&token=4728cc263d35459c0132ed1f787fc23b
+#EXTINF:-1 group-title="国际",凤凰资讯
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1752825547&token=048cea0107d05a6f64df4884b5476dd4
+#EXTINF:-1 group-title="国际",莲花卫视
+https://stream.iptv-search.com/main.php?id=%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86&t=1752825547&token=5d2a9b7d556a0148260168aa2a2ce43f
+#EXTINF:-1 group-title="国际",东森新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1752825547&token=59ff2311d99e2b68da5f24ad3cd71a09
+#EXTINF:-1 group-title="国际",东森美洲
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E7%BE%8E%E5%9B%BD&t=1752825547&token=59e5569292975dbeb6b377099a817955
+#EXTINF:-1 group-title="国际",台视新闻
+https://stream.iptv-search.com/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB+HD&t=1752825547&token=05ba5975565a304d8dd31b608c51fe92
+#EXTINF:-1 group-title="国际",民视新闻
+https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E+HD&t=1752825547&token=d218ea89c09fea4709b510150486af6f
+#EXTINF:-1 group-title="国际",公视新闻
+https://stream.iptv-search.com/main.php?id=%E5%85%AC%E8%A7%86&t=1752825547&token=2df2f22e22d17ab30416d5b7189a8c2b
+#EXTINF:-1 group-title="国际",TVBS高清
+https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1752825547&token=054e63b280535f97823fbbb8be433e7f
+#EXTINF:-1 group-title="国际",TVBJ1
+https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1752825547&token=938a5e5c0ccbeac9a6a570711fd0314a
+#EXTINF:-1 group-title="国际",TVB翡翠台
+https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1752825547&token=26b438b6e85f0006fd654db5968818b5
+#EXTINF:-1 group-title="国际",TVB明珠台
+https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1752825547&token=8197c49bd54b60714cdd219da1c9a2b7
+#EXTINF:-1 group-title="国际",东森戏剧
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&t=1752825547&token=fe3e98e1b7c017578c3ea3abb7e69fde
+#EXTINF:-1 group-title="国际",东森电影
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1752825547&token=e9679b09de43117b64ccacc7996bfa0d
+#EXTINF:-1 group-title="国际",东森洋片
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1752825547&token=5929a48ca84bce13b46cb06d8b311bee
+#EXTINF:-1 group-title="国际",澳视澳门
+https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8&t=1752825547&token=9a7df7660db94345b3fe0227917847b6
+#EXTINF:-1 group-title="国际",美亚电影
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1752825547&token=75d31baf054a02ce77b706aff030468b
+#EXTINF:-1 group-title="国际",纬来电影
+https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1752825547&token=9ba1c0e30d7400654698cb8ffe0fea44
+#EXTINF:-1 group-title="国际",重温经典
+https://stream.iptv-search.com/main.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&t=1752825547&token=3a5be6964fa51e1a2b46437555b58750
+#EXTINF:-1 group-title="国际",星卫电影
+https://stream.iptv-search.com/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1752825547&token=29f36e2425ebf911301adf7c84d63642
