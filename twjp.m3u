@@ -21,8 +21,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1,番薯111
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1,tvbs闽南
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1,纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森超视" tvg-id="东森超视" tvg-name="东森超视" group-title="其它",东森超视
