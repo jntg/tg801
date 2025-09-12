@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 NBA
+https://95.93.118.160/stream/channelid/199746997?profile=pass
 #EXTINF:-1 tvg-id="凤凰资讯频道" tvg-name="凤凰资讯频道" tvg-logo="https://assets.livednow.com/logo/凤凰资讯频道.png" group-title="綜合", 凤凰资讯频道
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰卫视频道" tvg-name="凤凰卫视频道" tvg-logo="https://assets.livednow.com/logo/凤凰卫视频道.png" group-title="綜合", 凤凰卫视频道
