@@ -1,8 +1,40 @@
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 NBA
-https://95.93.118.160/stream/channelid/199746997?profile=pass
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
+http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
+http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
+http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="💓专享央视",CCTV5+
+http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png"  group-title="💓专享央视",CCTV6
+http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png"  group-title="💓专享央视",CCTV7
+http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png"  group-title="💓专享央视",CCTV8
+http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png"  group-title="💓专享央视",CCTV9
+http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png"  group-title="💓专享央视",CCTV10
+http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
+http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
+http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
+http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png"  group-title="💓专享央视",CCTV14
+http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
+http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png"  group-title="💓专享央视",CCTV16
+http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png"  group-title="💓专享央视",CCTV17
+http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯频道" tvg-name="凤凰资讯频道" tvg-logo="https://assets.livednow.com/logo/凤凰资讯频道.png" group-title="綜合", 凤凰资讯频道
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰卫视频道" tvg-name="凤凰卫视频道" tvg-logo="https://assets.livednow.com/logo/凤凰卫视频道.png" group-title="綜合", 凤凰卫视频道
@@ -11,8 +43,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1,凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1,香港面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1,凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1,半島新聞
