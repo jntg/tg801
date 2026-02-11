@@ -440,4 +440,8 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/159952
 #EXTINF:-1 group-title="成人",松视1台 HD
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 group-title="成人",B
+http://206.212.244.71:8080/live/99437538/28260477/160048.m3u8
+#EXTINF:-1 group-title="成人",a
+https://t0.97img.com/a1000271/a.m3u8
 
